@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("128. Longest Consecutive Sequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+070d0141359212369fc006a08835a48b65a07e81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47c2361549a404fe7d00f8aa7d06ba39fb0eac47")]
 [assembly: System.Reflection.AssemblyProductAttribute("128. Longest Consecutive Sequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("128. Longest Consecutive Sequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

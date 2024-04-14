@@ -16,26 +16,34 @@
     }
     public static bool IsPalindrome(string s)
     {
-        var normalized = s.ToLower();
-        var output = new List<char>();
-        foreach (char c in normalized)
+        var l = 0;
+        var r = s.Length - 1;
+        while (l < r)
         {
-            if ((c >= '0' && c <= '9') || (c >= 'a' && c <= 'z'))
+            while (IsAlphanumeric(s[l]) == false && l < r)
             {
-                output.Add(c);
+                l++;
             }
-        }
+            while (IsAlphanumeric(s[r]) == false && l < r)
+            {
+                r--;
+            }
 
-        for (int i = 0; i < output.Count; i++)
-        {
-            var first = output[i];
-            var last = output[output.Count - 1 - i];
-            if (first != last)
+            if (Char.ToLower(s[l]) != Char.ToLower(s[r]))
             {
                 return false;
             }
+
+            l++;
+            r--;
+
         }
 
         return true;
+    }
+
+    public static bool IsAlphanumeric(char s)
+    {
+        return (s >= '0' && s <= '9') || (s >= 'a' && s <= 'z') || (s >= 'A' && s <= 'Z');
     }
 }

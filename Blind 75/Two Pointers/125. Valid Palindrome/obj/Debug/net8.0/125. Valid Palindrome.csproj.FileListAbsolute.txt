@@ -1,0 +1,15 @@
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.AssemblyInfoInputs.cache
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.AssemblyInfo.cs
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.sourcelink.json
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\bin\Debug\net8.0\125. Valid Palindrome.exe
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\bin\Debug\net8.0\125. Valid Palindrome.deps.json
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\bin\Debug\net8.0\125. Valid Palindrome.runtimeconfig.json
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\bin\Debug\net8.0\125. Valid Palindrome.dll
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\bin\Debug\net8.0\125. Valid Palindrome.pdb
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.dll
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\refint\125. Valid Palindrome.dll
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.pdb
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\125. Valid Palindrome.genruntimeconfig.cache
+C:\Users\lache\Documents\workspace\NeetCode\Blind 75\Two Pointers\125. Valid Palindrome\obj\Debug\net8.0\ref\125. Valid Palindrome.dll
